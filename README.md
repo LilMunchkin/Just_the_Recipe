@@ -1,6 +1,6 @@
-# just_the_recipev3
+# just_the_recipe
 
-Version 3
+Development Version 3
 
 ## Getting Started
 
